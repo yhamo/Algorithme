@@ -1,0 +1,27 @@
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\Metier\bin\Debug\Metier.dll
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\Metier\bin\Debug\Metier.pdb
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\Metier\obj\Debug\Metier.dll
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\Metier\obj\Debug\Metier.pdb
+G:\Genérateur\Metier\bin\Debug\Metier.dll
+G:\Genérateur\Metier\bin\Debug\Metier.pdb
+G:\Genérateur\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+G:\Genérateur\Metier\obj\Debug\Metier.dll
+G:\Genérateur\Metier\obj\Debug\Metier.pdb
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\Metier\obj\Debug\Metier.dll
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\Metier\obj\Debug\Metier.pdb
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\Metier\bin\Debug\Metier.dll
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\Metier\bin\Debug\Metier.pdb
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\Metier\bin\Debug\MySql.Data.dll
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\Metier\bin\Debug\MySql.Web.dll
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\Metier\bin\Debug\Metier.dll
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\Metier\bin\Debug\Metier.pdb
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\Metier\obj\Debug\Metier.dll
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\Metier\obj\Debug\Metier.pdb
+G:\Genérateur_Version_Custom\Metier\bin\Debug\Metier.dll
+G:\Genérateur_Version_Custom\Metier\bin\Debug\Metier.pdb
+G:\Genérateur_Version_Custom\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+G:\Genérateur_Version_Custom\Metier\obj\Debug\Metier.dll
+G:\Genérateur_Version_Custom\Metier\obj\Debug\Metier.pdb

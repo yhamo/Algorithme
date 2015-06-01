@@ -1,0 +1,80 @@
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\bin\Debug\presentation.exe.config
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\bin\Debug\presentation.exe
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\bin\Debug\presentation.pdb
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\obj\Debug\presentation.csprojResolveAssemblyReference.cache
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\obj\Debug\presentation.Affichage.resources
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\obj\Debug\presentation.Form1.resources
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\obj\Debug\presentation.Properties.Resources.resources
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\obj\Debug\presentation.SaisieLyonIndicia.resources
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\obj\Debug\presentation.csproj.GenerateResource.Cache
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\obj\Debug\presentation.exe
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\obj\Debug\presentation.pdb
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\bin\Debug\Metier.dll
+c:\users\dislis\documents\visual studio 2013\Projects\Genérateur\presentation\bin\Debug\Metier.pdb
+G:\Genérateur\presentation\bin\Debug\presentation.exe.config
+G:\Genérateur\presentation\obj\Debug\presentation.exe
+G:\Genérateur\presentation\obj\Debug\presentation.pdb
+G:\Genérateur\presentation\bin\Debug\presentation.exe
+G:\Genérateur\presentation\bin\Debug\presentation.pdb
+G:\Genérateur\presentation\bin\Debug\Metier.dll
+G:\Genérateur\presentation\bin\Debug\Metier.pdb
+G:\Genérateur\presentation\obj\Debug\presentation.csprojResolveAssemblyReference.cache
+G:\Genérateur\presentation\obj\Debug\presentation.Affichage.resources
+G:\Genérateur\presentation\obj\Debug\presentation.Properties.Resources.resources
+G:\Genérateur\presentation\obj\Debug\presentation.SaisieLyonIndicia.resources
+G:\Genérateur\presentation\obj\Debug\presentation.csproj.GenerateResource.Cache
+G:\Genérateur\presentation\obj\Debug\presentation.Accueil.resources
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\bin\Debug\presentation.exe.config
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\obj\Debug\presentation.exe
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\obj\Debug\presentation.pdb
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\bin\Debug\presentation.exe
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\bin\Debug\presentation.pdb
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\bin\Debug\Metier.dll
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\bin\Debug\MySql.Data.dll
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\bin\Debug\MySql.Web.dll
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\bin\Debug\Metier.pdb
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\obj\Debug\presentation.csprojResolveAssemblyReference.cache
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\obj\Debug\presentation.Affichage.resources
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\obj\Debug\presentation.Accueil.resources
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\obj\Debug\presentation.Properties.Resources.resources
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\obj\Debug\presentation.SaisieLyonIndicia.resources
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\obj\Debug\presentation.csproj.GenerateResource.Cache
+C:\Users\Investipole\Desktop\Stages 2015\Genérateur\presentation\bin\Debug\presentation.XML
+C:\Users\Investipole\Desktop\Genérateur\presentation\bin\Debug\presentation.exe.config
+C:\Users\Investipole\Desktop\Genérateur\presentation\bin\Debug\presentation.XML
+C:\Users\Investipole\Desktop\Genérateur\presentation\obj\Debug\presentation.exe
+C:\Users\Investipole\Desktop\Genérateur\presentation\obj\Debug\presentation.pdb
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\bin\Debug\presentation.exe.config
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\bin\Debug\presentation.XML
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.exe
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.pdb
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.csprojResolveAssemblyReference.cache
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.Accueil.resources
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.Properties.Resources.resources
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.csproj.GenerateResource.Cache
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\bin\Debug\presentation.exe
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\bin\Debug\presentation.pdb
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\bin\Debug\Metier.dll
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\bin\Debug\Metier.pdb
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.FormVille.resources
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.AffichagePageVille.resources
+C:\Users\Investipole\Desktop\Genérateur_Version_Custom\presentation\obj\Debug\presentation.FormDepartement.resources
+G:\Genérateur_Version_Custom\presentation\bin\Debug\presentation.exe.config
+G:\Genérateur_Version_Custom\presentation\bin\Debug\presentation.XML
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.exe
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.pdb
+G:\Genérateur_Version_Custom\presentation\bin\Debug\presentation.exe
+G:\Genérateur_Version_Custom\presentation\bin\Debug\presentation.pdb
+G:\Genérateur_Version_Custom\presentation\bin\Debug\Metier.dll
+G:\Genérateur_Version_Custom\presentation\bin\Debug\Metier.pdb
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.csprojResolveAssemblyReference.cache
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.AffichagePageVille.resources
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.Accueil.resources
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.FormDepartement.resources
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.Properties.Resources.resources
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.FormVille.resources
+G:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.csproj.GenerateResource.Cache
+E:\Genérateur_Version_Custom\presentation\bin\Debug\presentation.exe.config
+E:\Genérateur_Version_Custom\presentation\bin\Debug\presentation.XML
+E:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.exe
+E:\Genérateur_Version_Custom\presentation\obj\Debug\presentation.pdb

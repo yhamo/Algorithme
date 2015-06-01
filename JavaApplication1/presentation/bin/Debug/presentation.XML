@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>presentation</name>
+    </assembly>
+    <members>
+        <member name="M:presentation.AffichagePageVille.#ctor(Metier.unSite)">
+            <summary>
+            Methode qui permet de générer la fenêtre affichage
+            </summary>
+            <param name="unSite"></param>
+        </member>
+        <member name="M:presentation.AffichagePageVille.btn_EnvoyerBdd_Click(System.Object,System.EventArgs)">
+            <summary>
+            Bouton qui permet d'ajouter une nouvelle page à la base de données en local suivant les informations rentrées dans le formulaire
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:presentation.AffichagePageVille.btn_Fermer_Click(System.Object,System.EventArgs)">
+            <summary>
+            Bouton qui permet de fermer la fenêtre 
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:presentation.AffichagePageVille.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:presentation.AffichagePageVille.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:presentation.AffichagePageVille.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:presentation.Accueil.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:presentation.Accueil.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:presentation.Accueil.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="F:presentation.FormDepartement.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:presentation.FormDepartement.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:presentation.FormDepartement.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:presentation.Program.Main">
+            <summary>
+            Point d'entrée principal de l'application.
+            </summary>
+        </member>
+        <member name="M:presentation.FormVille.#ctor(Metier.unSite)">
+            <summary>
+            Méthode qui permet d'initialiser les éléments de la page
+            </summary>
+            <param name="leSite"></param>
+        </member>
+        <member name="M:presentation.FormVille.btn_Fermer_Click(System.Object,System.EventArgs)">
+            <summary>
+            Bouton qui permet de fermer la fenêtre
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:presentation.FormVille.btn_generer_Click(System.Object,System.EventArgs)">
+            <summary>
+            Bouton qui permet de générer une page affichant d'inverse contenu en fonction des informations saisies dans le formulaire
+            et de gérer les liens en fonction du site et du département choisi
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:presentation.FormVille.btn_reset_Click(System.Object,System.EventArgs)">
+            <summary>
+            Bouton qui permet de vider toutes les textbox du formulaire
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:presentation.FormVille.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:presentation.FormVille.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:presentation.FormVille.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:presentation.Properties.Resources">
+            <summary>
+              Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+            </summary>
+        </member>
+        <member name="P:presentation.Properties.Resources.ResourceManager">
+            <summary>
+              Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+            </summary>
+        </member>
+        <member name="P:presentation.Properties.Resources.Culture">
+            <summary>
+              Remplace la propriété CurrentUICulture du thread actuel pour toutes
+              les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+            </summary>
+        </member>
+        <member name="P:presentation.Properties.Resources.logo_INVESTIPOLE_TEST">
+            <summary>
+              Recherche une ressource localisée de type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:presentation.Properties.Resources.tableau_investipole">
+            <summary>
+              Recherche une ressource localisée de type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
